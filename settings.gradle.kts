@@ -1,0 +1,1 @@
+rootProject.name = "ru.playzone.playzone_back_13"
